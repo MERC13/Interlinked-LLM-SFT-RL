@@ -268,7 +268,7 @@ def run_online_rl(
         device_map="auto",
         torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
         trust_remote_code=True,
-        offload_folder="./offload"
+        offload_dir="./offload"
     )
     tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
     
