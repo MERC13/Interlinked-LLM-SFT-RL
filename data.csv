@@ -1,0 +1,75 @@
+Fire Name,Date (mm/dd/yyyy),Time Stamp Assigned,Unit Type Assigned,Coordinate Location,Action,Fire Status,Environmental Observations,Reasoning
+Cele Rd Grass fire ,01/30/2018,13:11:45,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Grass fire ,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:12:16,Battalion Unit (BAT),"30.442719, -97.526084",Direct and coordinate the unit,Grass fire ,,Manage overall strategy and resource coordination
+Cele Rd Grass fire ,01/30/2018,13:13:02,Scene Assessment For Entry (SAFE),"30.442719, -97.526084",Scene evaluation,Grass fire ,,Ensure situational awareness and conditions before allowing entry
+Cele Rd Grass fire ,01/30/2018,13:13:08,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Changed from grass fire to brush fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:15:09,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Brush fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:18:03,Fire truck arival (FTA),"30.442719, -97.526084",Support access and rescue,Brush fire,,"Supports the engine by performing rescues, ventilating the roof, and providing access to higher levels"
+Cele Rd Grass fire ,01/30/2018,13:18:26,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Brush fire ,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,13:18:30,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Brush fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:20:41,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Brush fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,13:22:26,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Brush fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:25:58,Community Medic (CM),"30.442719, -97.526084","Firefighter rehab, minor injuries, resident checkups",Brush fire,,Firefighter injured 
+Cele Rd Grass fire ,01/30/2018,13:29:24,Quint (QNT),"30.442719, -97.526084","Water tank, pump, fire hose, and ladder",Changed from brush fire to major brush fire,,Supply more water and apply water from a higher level
+Cele Rd Grass fire ,01/30/2018,13:29:25,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Major brush fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,13:29:56,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Major brush fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,13:31:14,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Major brush fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,13:37:30,Battalion Unit (BAT),"30.442719, -97.526084",Direct and coordinate the unit,Major brush fire,,Manage overall strategy and resource coordination
+Cele Rd Grass fire ,01/30/2018,14:18:52,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Changed from major brush fire to grass fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,14:29:11,Fire Engine (ENG),"30.442719, -97.526084",Fire Supression and water delivery ,Grass fire,,Apply water to knock down the flames
+Cele Rd Grass fire ,01/30/2018,14:30:52,Fire truck arival (FTA),"30.442719, -97.526084",Support access and rescue,Grass fire,,"Supports the engine by performing rescues, ventilating the roof, and providing access to higher levels"
+Cele Rd Grass fire ,01/30/2018,14:32:23,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Grass fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,14:33:30,Working Fire (WF),"30.442719, -97.526084",Trigger additional dispatch,Growing grass fire,,Upgrade status indicating a confirmed fire requiring full operations
+Cele Rd Grass fire ,01/30/2018,14:34:36,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Growing grass fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,14:44:13,Brush Truck (BT),"30.442719, -97.526084",Water delivery and off-road access,Slowing grass fire,,Supply water to engines and patrol the perimeter
+Cele Rd Grass fire ,01/30/2018,15:37:32,Working Fire Squad (WFSQ),"30.442719, -97.526084",Rescue and final support tasks,Smoldering ground,,Check area for any last embers 
+Sonoma County Fire,10/18/2017,23:00,Fire Communications Dispatch Center (REDCOM),"38.557438, -122.653119",Alert to fire in mountains of Sonoma County,Multiple small ground fires,Westward winds pushing fire into the eastern hills,Create a dispatch team to fight the fire
+Sonoma County Fire,10/18/2017,23:11:00,Fire Engine (ENG),"38.557438, -122.653119",Fire Supression and water delivery ,Multiple small ground fires,Westward winds pushing fire into the eastern hills,Apply water to knock down the flames
+Sonoma County Fire,10/18/2017,23:35:00,Battalion Unit (BAT),"38.557438, -122.653119",Direct and coordinate the unit,Multiple small ground fires,Westward winds pushing fire into the eastern hills,Manage overall strategy and resource coordination
+Sonoma County Fire,10/18/2017,23:44:00,Division of Emergency Management (DEM),"38.573992, -122.573829",Issue an evacuation of Calistoga,Multiple small ground fires,Westward winds push fire into Sonoma county,Fire entering into the town
+Sonoma County Fire,10/19/2017,0:05:00,Emergency Operations Center (EOC),"38.557438, -122.653119",Collect and analyze data to make decisions ,Multiple small ground fires,Strong westward winds ,Create a plan of action for the growing fire
+Sonoma County Fire,10/19/2017,0:10:00,Fire Engine (ENG),"38.393497, -122.514629",Fire Supression and water delivery ,powerline knocked down causing fire to increase,"Strong winds (45 mph), 72 F",Apply water to knock down the flames along the road
+Sonoma County Fire,10/19/2017,0:40:00,Emergency Operations Center (EOC),"38.4357998, -122.713949",Collect and analyze data to make decisions ,Growing fire,"Strong westward winds (65 mph), fog",Create a plan of action for the growing fire 
+Sonoma County Fire,10/19/2017,1:07:00,SoCO alert,"38.4357998, -122.713949",Evacuation of Santa Rose,Growing fire,"Strong westward winds (65 mph), fog",Fire entering into the town
+Sonoma County Fire,10/19/2017,1:55:00,Fire Engine (ENG),"38.4357998, -122.713949",Fire Supression and water delivery ,Growing fire,"Strong westward winds (65 mph), fog",Apply water to knock down the flames along the road
+Sonoma County Fire,10/19/2017,1:55:00,Brush Truck (BT),"38.4357998, -122.713949",Water delivery and off-road access,Growing fire,"Strong westward winds (65 mph), fog",Supply water to engines and patrol the perimeter
+Sonoma County Fire,10/19/2017,2:00:00,Community Medic (CM),"38.4357998, -122.713949","Firefighter rehab, minor injuries, resident checkups",Growing fire,Strong westward winds ,Injured civilians 
+Sonoma County Fire,10/19/2017,2:20:00,Fire Engine (ENG),"38.4357998, -122.713949",Fire Supression and water delivery ,fire tornadoes',,Apply water to knock down the flames along the road
+Sonoma County Fire,10/19/2017,3:00:00,Brush Truck (BT),"38.4357998, -122.713949",Water delivery and off-road access,fire tornadoes',,Supply water to engines and patrol the perimeter
+Sonoma County Fire,10/19/2017,6:00:00,Federal Emergency Management Agency (FEMA),"38.4357998, -122.713949",Supply resources ,Growing fire,,State Proclamation of Emergency signed by Governor
+Pigeon Forge Fire,09/04/2011,15:06:17,Quint (QNT),"30.426046, -97.607873","Water tank, pump, fire hose, and ladder",Structure fire ,,Supply water and apply water from a higher level
+Pigeon Forge Fire,09/04/2011,15:06:17,Fire Engine (ENG),"30.426046, -97.607874",Fire Supression and water delivery ,Structure fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:06:17,Quint (QNT),"30.426046, -97.607875","Water tank, pump, fire hose, and ladder",Structure fire ,,Supply water and apply water from a higher level
+Pigeon Forge Fire,09/04/2011,15:06:17,Rescue (RES),"30.426046, -97.607876",Search and rescue ,Structure fire ,,"Fire inside a structure, may have civillians inside"
+Pigeon Forge Fire,09/04/2011,15:06:17,Fire Engine (ENG),"30.426046, -97.607877",Fire Supression and water delivery ,Structure fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:08:15,Battalion Unit (BAT),"30.426046, -97.607878",Direct and coordinate the unit,Structure fire ,,Manage overall strategy and resource coordination
+Pigeon Forge Fire,09/04/2011,15:09:24,Community Medic (CM),"30.426046, -97.607879","Firefighter rehab, minor injuries, resident checkups",Structure fire ,,Injured civilians 
+Pigeon Forge Fire,09/04/2011,15:12:32,Fire Engine (ENG),"30.426046, -97.607873",Fire Supression and water delivery ,Grew to the next struture ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:15:43,Fire Engine (ENG),"30.426046, -97.607874",Fire Supression and water delivery ,Two strutures on fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:15:45,Fire Engine (ENG),"30.426046, -97.607875",Fire Supression and water delivery ,Two strutures on fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:23:21,Fire Engine (ENG),"30.426046, -97.607876",Fire Supression and water delivery ,Two strutures on fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:23:47,Fire Engine (ENG),"30.426046, -97.607877",Fire Supression and water delivery ,Two strutures on fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:37:26,Battalion Unit (BAT),"30.426046, -97.607878",Direct and coordinate the unit,Two strutures on fire ,,Manage overall strategy and resource coordination
+Pigeon Forge Fire,09/04/2011,15:37:26,Fire Engine (ENG),"30.426046, -97.607879",Fire Supression and water delivery ,Advancing towards tree line ,West winds pushing fire east ,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:37:26,Quint (QNT),"30.426046, -97.607880","Water tank, pump, fire hose, and ladder",Advancing towards tree line ,West winds pushing fire east ,Supply water and apply water from a higher level
+Pigeon Forge Fire,09/04/2011,15:39:10,Fire Engine (ENG),"30.426046, -97.607881",Fire Supression and water delivery ,Two strutures and tree line on fire ,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/04/2011,15:52:17,Brush Truck (BT),"30.426046, -97.607882",Water delivery and off-road access,Two strutures and tree line on fire ,,Supply water to engines and patrol the perimeter
+Pigeon Forge Fire,09/04/2011,16:32:42,Brush Truck (BT),"30.426046, -97.607883",Water delivery and off-road access,Struture and ground fire ,,Supply water to engines and patrol the perimeter
+Pigeon Forge Fire,09/04/2011,16:44:33,Brush Truck (BT),"30.426046, -97.607884",Water delivery and off-road access,Struture and ground fire ,,Supply water to engines and patrol the perimeter
+Pigeon Forge Fire,09/05/2011,0:04:06,Fire Engine (ENG),"30.426046, -97.607885",Fire Supression and water delivery ,Slowing fire,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/05/2011,3:09:50,Fire Engine (ENG),"30.426046, -97.607886",Fire Supression and water delivery ,Slowing fire,,Apply water to knock down the growing flames
+Pigeon Forge Fire,09/05/2011,3:16:02,Brush Truck (BT),"30.426046, -97.607886",Water delivery and off-road access,Slowing fire,,Supply water to engines and patrol the perimeter
+Pigeon Forge Fire,09/05/2011,13:25:26,Brush Truck (BT),"30.426046, -97.607886",Water delivery and off-road access,Smoldering ground ,,Supply water to engines and patrol the perimeter
+Pigeon Forge Fire,09/05/2011,14:11:42,Fire Engine (ENG),"30.426046, -97.607887",Fire Supression and water delivery ,Smoldering ground ,,Put out the smoldering ground 
+Creek Fire,09/04/2020,,,,,"fire ignites near Big Creek, CA",Thousands of acres of dead trees in the Sierra Nevada Mountains due to drought and an infestation of the bark beetle acted as fuel for the fire. ,
+Creek Fire,09/05/2020,,,,Creek Fire reported,"0% contained, 36,000 acres burned",Enhanced Fujita (EF)-1 and EF-2 category winds exceeding 125 miles per hour created fire tornadoes that accelerated the spread. ,
+Creek Fire,09/06/2020,,,,"Fire suppression combined the resources of the United States Forest Service, Sierra National Forest, California Department of Forestry and Fire Protection (CAL FIRE), the Fresno County Fire Protection District, and mutual aid resources. Fresno County issued an Emergency Proclamation. Evacuation orders issued to Camp Sierra, Big Creek, and Huntington Lake. Fresno county activated the Emergency Operations Center. ","0% contained, 46,600 acres burned",,
+Creek Fire,09/07/2020,,,,"Evacuation Orders were issued for the entire town of Auberry, CA. ~200 hikers and campers evacuated.","0% contained, 135,523 acres burned",Enhanced Fujita (EF)-1 and EF-2 category winds exceeding 125 miles per hour created fire tornadoes that accelerated the spread.,
+Creek Fire,09/08/2020,,,,Fresno Fair Grounds set up for small and large livestock,"0% contained, 143,929 acres burned",,
+Creek Fire,09/09/2020,,,,Animal Evacuation sites consolidate at Fresno Fairgrounds,"0% contained, 163,138 acres burned",,
+Creek Fire,09/11/2020,,,,Evacuations Orders and warnings are issued. Red Cross Established a Temporary evacuation point (TEP) at Granite Ridge Intermediate School. ,"6% contained, 175,893 acres burned",,
+Creek Fire,09/15/2020,,,,"Governor Newsom survey damage. Over 30,000 people in Fresno County and Madera County Evacuated. ","16% contained, 220,025 acres burned",,
+Creek Fire,09/20/2020,,,,,"25% contained, 278,368 acres burned",,
+Creek Fire,09/23/2020,,,,Repopulation begins in many evacuation zones,"32% contained, 289,695 acres burned",,
+Creek Fire,10/26/2020,,,,Repopulation of all evacuation zones complete,"63% contained, 369,362 acres burned",,
+Creek Fire,12/24/2020,,,,Full containment of the Creek Fire achieved,100% contained,,
